@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="160" viewBox="0 0 320 160" role="img" aria-labelledby="title desc">
+<title id="title">RoxaZip</title>
+<desc id="desc">基于 7-Zip 与 7-Zip ZS 的压缩工具。扩展编解码器，提供暗色模式与资源管理器集成。 C++ / Windows / Linux</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',Arial,sans-serif} .mono{font-family:Consolas,monospace}</style>
+<rect x="0.5" y="0.5" width="319" height="159" rx="6" fill="#fff9fc" stroke="#edbfd1"/><text x="16" y="29" fill="#c32969" font-size="18" font-weight="600">RoxaZip</text><text x="16" y="52" fill="#775566" font-size="12" class="mono">C++ / Windows / Linux</text><text x="16" y="83" fill="#3e2632" font-size="13" >基于 7-Zip 与 7-Zip ZS 的压缩工具。</text><text x="16" y="105" fill="#3e2632" font-size="13" >扩展编解码器，提供暗色模式与</text><text x="16" y="127" fill="#3e2632" font-size="13" >资源管理器集成。</text>
+</svg>

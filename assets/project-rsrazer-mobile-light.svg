@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="160" viewBox="0 0 320 160" role="img" aria-labelledby="title desc">
+<title id="title">RsRazer</title>
+<desc id="desc">Rust 编写的 Windows 雷蛇设备控制工具，支持灯效、DPI、宏与 Chroma 集成。 Rust / Windows</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',Arial,sans-serif} .mono{font-family:Consolas,monospace}</style>
+<rect x="0.5" y="0.5" width="319" height="159" rx="6" fill="#fff9fc" stroke="#edbfd1"/><text x="16" y="29" fill="#c32969" font-size="18" font-weight="600">RsRazer</text><text x="16" y="52" fill="#775566" font-size="12" class="mono">Rust / Windows</text><text x="16" y="83" fill="#3e2632" font-size="13" >Rust 编写的 Windows 雷蛇设备</text><text x="16" y="105" fill="#3e2632" font-size="13" >控制工具，支持灯效、DPI、宏</text><text x="16" y="127" fill="#3e2632" font-size="13" >与 Chroma 集成。</text>
+</svg>
