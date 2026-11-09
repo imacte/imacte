@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160" role="img" aria-labelledby="title desc">
 <title id="title">Most Used Languages</title>
-<desc id="desc">C++: 43.75% · C: 42.77% · Rust: 10.77% · Assembly: 0.97% · Makefile: 0.95% · PowerShell: 0.79%</desc>
+<desc id="desc">C++: 43.13% · C: 42.17% · Rust: 12.03% · Assembly: 0.95% · Makefile: 0.93% · PowerShell: 0.78%</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',Arial,sans-serif} .mono{font-family:Consolas,monospace}</style>
-<rect x="0.5" y="0.5" width="799" height="159" rx="6" fill="#141321" stroke="#8b8b99"/><text x="22" y="29" fill="#fe428e" font-size="18" font-weight="600">Most Used Languages</text><defs><clipPath id="language-bar"><rect x="22" y="57" width="756" height="8" rx="4"/></clipPath></defs><g clip-path="url(#language-bar)"><rect x="22.000" y="57" width="330.750" height="8" fill="#f34b7d"/><rect x="352.750" y="57" width="323.341" height="8" fill="#555555"/><rect x="676.091" y="57" width="81.421" height="8" fill="#dea584"/><rect x="757.512" y="57" width="7.333" height="8" fill="#6E4C13"/><rect x="764.846" y="57" width="7.182" height="8" fill="#427819"/><rect x="772.028" y="57" width="5.972" height="8" fill="#012456"/></g><circle cx="27" cy="95" r="4.5" fill="#f34b7d"/><text x="37" y="99" fill="#b6b5c4" font-size="13" >C++ 43.75%</text>
-<circle cx="281" cy="95" r="4.5" fill="#555555"/><text x="291" y="99" fill="#b6b5c4" font-size="13" >C 42.77%</text>
-<circle cx="535" cy="95" r="4.5" fill="#dea584"/><text x="545" y="99" fill="#b6b5c4" font-size="13" >Rust 10.77%</text>
-<circle cx="27" cy="125" r="4.5" fill="#6E4C13"/><text x="37" y="129" fill="#b6b5c4" font-size="13" >Assembly 0.97%</text>
-<circle cx="281" cy="125" r="4.5" fill="#427819"/><text x="291" y="129" fill="#b6b5c4" font-size="13" >Makefile 0.95%</text>
-<circle cx="535" cy="125" r="4.5" fill="#012456"/><text x="545" y="129" fill="#b6b5c4" font-size="13" >PowerShell 0.79%</text>
+<rect x="0.5" y="0.5" width="799" height="159" rx="6" fill="#141321" stroke="#8b8b99"/><text x="22" y="29" fill="#fe428e" font-size="18" font-weight="600">Most Used Languages</text><defs><clipPath id="language-bar"><rect x="22" y="57" width="756" height="8" rx="4"/></clipPath></defs><g clip-path="url(#language-bar)"><rect x="22.000" y="57" width="326.095" height="8" fill="#f34b7d"/><rect x="348.095" y="57" width="318.837" height="8" fill="#555555"/><rect x="666.932" y="57" width="90.956" height="8" fill="#dea584"/><rect x="757.888" y="57" width="7.183" height="8" fill="#6E4C13"/><rect x="765.071" y="57" width="7.032" height="8" fill="#427819"/><rect x="772.103" y="57" width="5.897" height="8" fill="#012456"/></g><circle cx="27" cy="95" r="4.5" fill="#f34b7d"/><text x="37" y="99" fill="#b6b5c4" font-size="13" >C++ 43.13%</text>
+<circle cx="281" cy="95" r="4.5" fill="#555555"/><text x="291" y="99" fill="#b6b5c4" font-size="13" >C 42.17%</text>
+<circle cx="535" cy="95" r="4.5" fill="#dea584"/><text x="545" y="99" fill="#b6b5c4" font-size="13" >Rust 12.03%</text>
+<circle cx="27" cy="125" r="4.5" fill="#6E4C13"/><text x="37" y="129" fill="#b6b5c4" font-size="13" >Assembly 0.95%</text>
+<circle cx="281" cy="125" r="4.5" fill="#427819"/><text x="291" y="129" fill="#b6b5c4" font-size="13" >Makefile 0.93%</text>
+<circle cx="535" cy="125" r="4.5" fill="#012456"/><text x="545" y="129" fill="#b6b5c4" font-size="13" >PowerShell 0.78%</text>
 </svg>
