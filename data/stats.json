@@ -1,49 +1,49 @@
 {
   "username": "imacte",
-  "fetchedAt": "2026-11-22T07:10:06.651Z",
+  "fetchedAt": "2026-11-23T07:56:51.890Z",
   "sources": {
     "stats": "https://github-stats-extended.vercel.app/api?username=imacte&show_icons=true&disable_animations=true&number_format=long",
     "languages": "https://github-stats-extended.vercel.app/api/top-langs/?username=imacte&layout=compact&langs_count=6"
   },
   "stats": {
-    "stars": 228,
-    "commits": 312,
+    "stars": 229,
+    "commits": 311,
     "prs": 0,
     "issues": 1,
     "contribs": 0,
     "rank": "B",
-    "rankProgress": 0.430236,
+    "rankProgress": 0.430256,
     "commitLabel": "Total Commits (last year):"
   },
   "languages": [
     {
       "name": "C++",
-      "percent": 42.47,
+      "percent": 42.16,
       "color": "#f34b7d"
     },
     {
       "name": "C",
-      "percent": 41.2,
+      "percent": 40.93,
       "color": "#555555"
     },
     {
       "name": "Rust",
-      "percent": 13.61,
+      "percent": 14.22,
       "color": "#dea584"
     },
     {
       "name": "Assembly",
-      "percent": 0.93,
+      "percent": 0.92,
       "color": "#6E4C13"
     },
     {
       "name": "Makefile",
-      "percent": 0.92,
+      "percent": 0.91,
       "color": "#427819"
     },
     {
       "name": "PowerShell",
-      "percent": 0.87,
+      "percent": 0.86,
       "color": "#012456"
     }
   ]
